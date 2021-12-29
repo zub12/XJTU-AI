@@ -19,10 +19,10 @@ git clone git@github.com:zub12/XJTU-AI.git
 https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 4) 添加文件到仓库：
 git.add
-5)提交暂存区到本地仓库:
+5) 提交暂存区到本地仓库:
 git commit -m '具体时间-提交简介'
 e.g.'2021-12-29-15:22-大类平台课程-专业大类基础课程-人工智能的哲学基础与伦理_AUTO300127-学长提示-课外拓展、课程学习'
-6)上传远程代码并合并:
+6) 上传远程代码并合并:
 第一次上传：
 git push -u origin main
 之后：
